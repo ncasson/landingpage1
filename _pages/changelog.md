@@ -4,7 +4,7 @@ title: What's New
 include_in_header: true
 ---
 
-# What's New
+# Version Log
 
 
 ### `Initial Release`
